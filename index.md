@@ -1,8 +1,6 @@
 ## Eliza Pavel
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](profile.jpg)
+![Image](profile.jpg)
 
 ### Contact
 
