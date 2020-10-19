@@ -1,6 +1,8 @@
+# Eliza Pavel
+
 Here is a photo of me:
 
-![Image](profile.jpg)
+![Profile Image](profile.jpg)
 
 ### Contact
 
