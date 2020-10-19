@@ -1,6 +1,7 @@
-# Eliza Pavel
 
-Hello! This is me: 
+Hello! This is me:
+
+# Eliza Pavel 
 
 ![Profile Image](profile.jpg)
 
