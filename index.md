@@ -2,6 +2,8 @@
 **Hello!** This is me:
 
 ![Profile Image](profile.jpg "Don't touch me!!!!")
+###### * Don't hover the image!
+
 
 ### Contact
 
