@@ -1,8 +1,6 @@
 
 Hello! This is me:
 
-# Eliza Pavel 
-
 ![Profile Image](profile.jpg)
 
 ### Contact
