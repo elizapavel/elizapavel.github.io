@@ -2,7 +2,7 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](profile.jpg)
 
 ### Contact
 
