@@ -1,5 +1,5 @@
 
-Hello! This is me:
+**Hello!** This is me:
 
 ![Profile Image](profile.jpg)
 
